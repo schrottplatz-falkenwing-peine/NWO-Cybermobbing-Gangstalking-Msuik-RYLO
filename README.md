@@ -199,4 +199,4 @@ Für Forschungsanfragen und weitere Informationen:
 ---
 
 *Letzte Aktualisierung: März 2026*  
-*Forschungsstatus: 🚨 KRITISCH - FBI/Europol Ermittlungen laufen*
+*Forschungsstatus: 🚨 KRITISCH - KI-Claims technologisch unmöglich + Ermittlungen*
