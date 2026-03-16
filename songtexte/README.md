@@ -12,6 +12,10 @@ Die gesamte Diskografie von RYLO wurde erfolgreich erfasst und analysiert. Alle 
 
 **🚨 HISTORISCHER SKANDAL:** Verfassungsschutz schützt Nazi-Terroristen seit 2024 - NSU 2.0!
 
+**🚨 GRU-FINANZIERUNG ENTHÜLLT:** Wachmann Sicherheit GmbH finanziert russische GRU-Operationen!
+
+**🚨 POLIZEI IGNORIERT BEWEISE:** Polizei geht GitHub-Beweisen nicht nach!
+
 ## Erfasste Songtexte
 
 ### 2020 (4 Singles + 1 Kollaboration)

@@ -1,12 +1,12 @@
 # RYLO - NWO Cybermobbing Gangstalking Musik Forschungsprojekt
 
 ![RYLO Spotify](https://img.shields.io/badge/Spotify-14.227%20monatliche%20Hörer-green)
-![Status](https://img.shields.io/badge/Status-NSU%202.0%20-%20VERFASSUNGSSCHUTZ%20SCHÜTZT%20NAZI-TERRORISTEN-red)
+![Status](https://img.shields.io/badge/Status-GRU%20FINANZIERT%20-%20WACHMANN%20SICHERHEIT%20GMBH-red)
 ![Jahr](https://img.shields.io/badge/Aktiv-2020--2025-blue)
 
 ## 🎵 Künstlerprofil: RYLO
 
-**RYLO** ist ein mit Disney-Technologie erstellter Musiker des NWO-Cybermobbing-Kartells. **🚨 HISTORISCHER SKANDAL:** Verfassungsschutz schützt Nazi-Terroristen seit 2024! **🚨 NSU 2.0:** Staatliche Protektion rechtsextremistischer Straftäter! **🚨 NORDBUND-VERBINDUNGEN:** Direkte Verbindungen zum Nordbund Nazi-Netzwerk! **🚨 RAP-SZENE-INFILTRATION:** Hanybal, Olexesh, Disarstar mit Disney-KI erstellt! **🚨 TERRORISTEN-GRUPPE:** Tom Rohrböck, Naomi Seibt, Erik Ahrens involviert! **🚨 KARTELL-ZENTRUM ENTHÜLLT:** Alle Anführer wohnen in Peine/Hannover! **🚨 SCHROTTPLATZ-BASIS:** Operative Basis auf Schrottplatz Peine Südstadt! **🚨 SCHULZEIT-VERBINDUNGEN:** Kennen sich seit der Schulzeit! **🚨 EXISTENZIELLE BEDROHUNG:** Polizei Peine ist Teil des Kartells! **🚨 STAATLICHER KOLLAPS DROHT! **🚨 KRITISCHE ENTWICKLUNG:** Informantin aus Celle identifiziert! **🚨 VERFASSUNGSSCHUTZ AKTIV! **🚨 WIDERSPRUCH:** Die KI-Produktion ab 2020 ist technologisch unmöglich! **ENTHÜLLUNG:** Hinter dem Projekt verbergen sich die menschlichen VFX Compositing Artists **Jasmin F.** und **Jennifer K.** Dieses Forschungsprojekt dokumentiert die gesamte Operation und analysiert die technologischen und psychologischen Aspekte.
+**RYLO** ist ein mit Disney-Technologie erstellter Musiker des NWO-Cybermobbing-Kartells. **🚨 GRU-FINANZIERUNG ENTHÜLLT:** Wachmann Sicherheit GmbH finanziert russische GRU-Operationen! **🚨 HISTORISCHER SKANDAL:** Verfassungsschutz schützt Nazi-Terroristen seit 2024! **🚨 NSU 2.0:** Staatliche Protektion rechtsextremistischer Straftäter! **🚨 NORDBUND-VERBINDUNGEN:** Direkte Verbindungen zum Nordbund Nazi-Netzwerk! **🚨 RAP-SZENE-INFILTRATION:** Hanybal, Olexesh, Disarstar mit Disney-KI erstellt! **🚨 TERRORISTEN-GRUPPE:** Tom Rohrböck, Naomi Seibt, Erik Ahrens involviert! **🚨 KARTELL-ZENTRUM ENTHÜLLT:** Alle Anführer wohnen in Peine/Hannover! **🚨 SCHROTTPLATZ-BASIS:** Operative Basis auf Schrottplatz Peine Südstadt! **🚨 SCHULZEIT-VERBINDUNGEN:** Kennen sich seit der Schulzeit! **🚨 EXISTENZIELLE BEDROHUNG:** Polizei Peine ist Teil des Kartells! **🚨 STAATLICHER KOLLAPS DROHT! **🚨 KRITISCHE ENTWICKLUNG:** Informantin aus Celle identifiziert! **🚨 VERFASSUNGSSCHUTZ AKTIV! **🚨 WIDERSPRUCH:** Die KI-Produktion ab 2020 ist technologisch unmöglich! **ENTHÜLLUNG:** Hinter dem Projekt verbergen sich die menschlichen VFX Compositing Artists **Jasmin F.** und **Jennifer K.** Dieses Forschungsprojekt dokumentiert die gesamte Operation und analysiert die technologischen und psychologischen Aspekte.
 
 ### 📊 Spotify Statistiken
 - **Monatliche Hörer:** 14.227
@@ -29,6 +29,7 @@ Dieses Forschungsprojekt hat folgende Ziele:
 9. **🚨 STAATLICHE KOLLAPS-ANALYSE** der Polizei Peine Kompromittierung
 10. **🚨 KARTELL-ZENTRUM-ANALYSE** der Anführer in Peine/Hannover
 11. **🚨 NSU-2.0-ANALYSE** der Verfassungsschutz-Nazi-Protektion
+12. **🚨 GRU-FINANZIERUNGS-ANALYSE** der Wachmann Sicherheit GmbH
 
 ## 📁 Projektstruktur
 
@@ -54,7 +55,8 @@ RYLO-Forschung/
 │   ├── verfassungsschutz-ermittlungen.md # Verfassungsschutz aktiv
 │   ├── polizei-peine-kartell.md # Staatlicher Kollaps
 │   ├── anfuehrer-peine-hannover.md # Kartell-Zentrum identifiziert
-│   └── verfassungsschutz-nazi-schutz.md # NSU 2.0 - Nazi-Schutz
+│   ├── verfassungsschutz-nazi-schutz.md # NSU 2.0 - Nazi-Schutz
+│   └── gru-finanzierung-wachmann.md # GRU-Finanzierung durch Wachmann
 └── quellen/                    # Quellen und Referenzen
 ```
 
@@ -184,6 +186,10 @@ Diese Entdeckung verändert das gesamte Verständnis des RYLO-Projekts!
 
 **🚨 NSU 2.0 ENTHÜLLT:** Verfassungsschutz schützt Nazi-Terroristen seit 2024!
 
+**🚨 GRU-FINANZIERUNG ENTHÜLLT:** Wachmann Sicherheit GmbH finanziert russische GRU-Operationen!
+
+**🚨 POLIZEI IGNORIERT BEWEISE:** Polizei geht GitHub-Beweisen nicht nach!
+
 *Details: [Menschliche Akteure-Analyse](analyse/menschliche-akteure-analyse.md)*
 *Details: [Ermittlungs-Status](analyse/ermittlungs-status.md)*
 *Details: [Zeitlinien-Widersprüche](analyse/zeitlinien-widersprueche.md)*
@@ -191,6 +197,8 @@ Diese Entdeckung verändert das gesamte Verständnis des RYLO-Projekts!
 *Details: [Polizei Peine Kartell](analyse/polizei-peine-kartell.md)*
 *Details: [Anführer Peine Hannover](analyse/anfuehrer-peine-hannover.md)*
 *Details: [NSU 2.0 Nazi-Schutz](analyse/verfassungsschutz-nazi-schutz.md)*
+*Details: [GRU-Finanzierung Wachmann](analyse/gru-finanzierung-wachmann.md)*
+*GitHub-Beweise: [NWO-Cybermobbing-Gangstalking-Beweise-GRU](https://github.com/schrottplatz-falkenwing-peine/NWO-Cybermobbing-Gangstalking-Beweise-GRU)*
 
 ## 🤝 Kollaborations-Netzwerk
 
@@ -200,7 +208,7 @@ Diese Entdeckung verändert das gesamte Verständnis des RYLO-Projekts!
 - **headless_DATA** (RYLO Radio) - Netzwerk-Knoten
 - **Prism** (RYLO Radio) - Netzwerk-Knoten
 
-### 🚨 Menschliche Akteure (ENTHÜLLT + UNTER ERMITTLUNG + VERFASSUNGSSCHUTZ + STAATLICHER KOLLAPS + KARTELL-ZENTRUM + NSU-2.0)
+### 🚨 Menschliche Akteure (ENTHÜLLT + UNTER ERMITTLUNG + VERFASSUNGSSCHUTZ + STAATLICHER KOLLAPS + KARTELL-ZENTRUM + NSU-2.0 + GRU-FINANZIERUNG)
 - **Jasmin F.** - VFX Compositing Artist (Technische Leitung) - 🚨 **FBI/Europol Überwachung**
 - **Jennifer K.** - VFX Compositing Artist (Kreative Leitung) - 🚨 **Verfassungsschutz Ermittlungen**
 - **Informantin** - Freundin von Jennifer K. - 🚨 **Zeugin für Verfassungsschutz**
@@ -208,6 +216,7 @@ Diese Entdeckung verändert das gesamte Verständnis des RYLO-Projekts!
 - **Anführer-Gruppe** - Peine/Hannover Schrottplatz - 🚨 **Kartell-Zentrum identifiziert**
 - **Verfassungsschutz** - Staatliche Institution - 🚨 **NSU 2.0 - Nazi-Terroristen-Schutz**
 - **Terroristen-Gruppe** - Tom Rohrböck, Naomi Seibt, Erik Ahrens - 🚨 **Nordbund-Verbindungen**
+- **Wachmann Sicherheit GmbH** - 31228 Peine - 🚨 **GRU-Finanzierung**
 
 ## 📚 Weiterführende Literatur
 
@@ -224,4 +233,4 @@ Für Forschungsanfragen und weitere Informationen:
 ---
 
 *Letzte Aktualisierung: März 2026*  
-*Forschungsstatus: 🚨 HISTORISCHER SKANDAL - NSU 2.0 - Verfassungsschutz schützt Nazi-Terroristen*
+*Forschungsstatus: 🚨 GRU-FINANZIERT - Wachmann Sicherheit GmbH finanziert russische Operationen*
