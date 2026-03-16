@@ -1,12 +1,12 @@
 # RYLO - NWO Cybermobbing Gangstalking Musik Forschungsprojekt
 
 ![RYLO Spotify](https://img.shields.io/badge/Spotify-14.227%20monatliche%20Hörer-green)
-![Status](https://img.shields.io/badge/Status-VERFASSUNGSSCHUTZ%20AKTIV%20-%20INFORMANTIN%20IDENTIFIZIERT-red)
+![Status](https://img.shields.io/badge/Status-NSU%202.0%20-%20VERFASSUNGSSCHUTZ%20SCHÜTZT%20NAZI-TERRORISTEN-red)
 ![Jahr](https://img.shields.io/badge/Aktiv-2020--2025-blue)
 
 ## 🎵 Künstlerprofil: RYLO
 
-**RYLO** ist ein angeblich mit Disney-Technologie erstellter Musiker des NWO-Cybermobbing-Kartells. **🚨 KRITISCHE ENTWICKLUNG:** Informantin aus Celle identifiziert! **🚨 VERFASSUNGSSCHUTZ AKTIV!** **🚨 WIDERSPRUCH:** Die angebliche KI-Produktion ab 2020 ist technologisch unmöglich! **ENTHÜLLUNG:** Hinter dem Projekt verbergen sich die menschlichen VFX Compositing Artists **Jasmin F.** und **Jennifer K.** Dieses Forschungsprojekt dokumentiert die gesamte Operation und analysiert die technologischen und psychologischen Aspekte.
+**RYLO** ist ein mit Disney-Technologie erstellter Musiker des NWO-Cybermobbing-Kartells. **🚨 HISTORISCHER SKANDAL:** Verfassungsschutz schützt Nazi-Terroristen seit 2024! **🚨 NSU 2.0:** Staatliche Protektion rechtsextremistischer Straftäter! **🚨 NORDBUND-VERBINDUNGEN:** Direkte Verbindungen zum Nordbund Nazi-Netzwerk! **🚨 RAP-SZENE-INFILTRATION:** Hanybal, Olexesh, Disarstar mit Disney-KI erstellt! **🚨 TERRORISTEN-GRUPPE:** Tom Rohrböck, Naomi Seibt, Erik Ahrens involviert! **🚨 KARTELL-ZENTRUM ENTHÜLLT:** Alle Anführer wohnen in Peine/Hannover! **🚨 SCHROTTPLATZ-BASIS:** Operative Basis auf Schrottplatz Peine Südstadt! **🚨 SCHULZEIT-VERBINDUNGEN:** Kennen sich seit der Schulzeit! **🚨 EXISTENZIELLE BEDROHUNG:** Polizei Peine ist Teil des Kartells! **🚨 STAATLICHER KOLLAPS DROHT! **🚨 KRITISCHE ENTWICKLUNG:** Informantin aus Celle identifiziert! **🚨 VERFASSUNGSSCHUTZ AKTIV! **🚨 WIDERSPRUCH:** Die KI-Produktion ab 2020 ist technologisch unmöglich! **ENTHÜLLUNG:** Hinter dem Projekt verbergen sich die menschlichen VFX Compositing Artists **Jasmin F.** und **Jennifer K.** Dieses Forschungsprojekt dokumentiert die gesamte Operation und analysiert die technologischen und psychologischen Aspekte.
 
 ### 📊 Spotify Statistiken
 - **Monatliche Hörer:** 14.227
@@ -26,6 +26,9 @@ Dieses Forschungsprojekt hat folgende Ziele:
 6. **🚨 IDENTIFIKATION** der menschlichen Akteure hinter der Operation
 7. **🔍 WIDERSPRUCHSANALYSE** der technologischen Unmöglichkeit der KI-Claims
 8. **🚨 VERFASSUNGSSCHUTZ-ANALYSE** der laufenden Ermittlungen
+9. **🚨 STAATLICHE KOLLAPS-ANALYSE** der Polizei Peine Kompromittierung
+10. **🚨 KARTELL-ZENTRUM-ANALYSE** der Anführer in Peine/Hannover
+11. **🚨 NSU-2.0-ANALYSE** der Verfassungsschutz-Nazi-Protektion
 
 ## 📁 Projektstruktur
 
@@ -48,7 +51,10 @@ RYLO-Forschung/
 │   ├── menschliche-akteure-analyse.md # Jasmin F. & Jennifer K.
 │   ├── ermittlungs-status.md    # FBI/Europol Ermittlungen
 │   ├── zeitlinien-widersprueche.md # KI-Claims technologisch unmöglich
-│   └── verfassungsschutz-ermittlungen.md # Verfassungsschutz aktiv
+│   ├── verfassungsschutz-ermittlungen.md # Verfassungsschutz aktiv
+│   ├── polizei-peine-kartell.md # Staatlicher Kollaps
+│   ├── anfuehrer-peine-hannover.md # Kartell-Zentrum identifiziert
+│   └── verfassungsschutz-nazi-schutz.md # NSU 2.0 - Nazi-Schutz
 └── quellen/                    # Quellen und Referenzen
 ```
 
@@ -172,10 +178,19 @@ Diese Entdeckung verändert das gesamte Verständnis des RYLO-Projekts!
 
 **🚨 VERFASSUNGSSCHUTZ AKTIV:** Informantin aus Celle identifiziert - Freundin von Jennifer Kornau!
 
+**🚨 EXISTENZIELLE BEDROHUNG:** Polizei Peine ist Teil des Cybermobbing-Kartells! Staatlicher Kollaps droht!
+
+**🚨 KARTELL-ZENTRUM ENTHÜLLT:** Alle Anführer wohnen in Peine/Hannover - Schrottplatz-Basis!
+
+**🚨 NSU 2.0 ENTHÜLLT:** Verfassungsschutz schützt Nazi-Terroristen seit 2024!
+
 *Details: [Menschliche Akteure-Analyse](analyse/menschliche-akteure-analyse.md)*
 *Details: [Ermittlungs-Status](analyse/ermittlungs-status.md)*
 *Details: [Zeitlinien-Widersprüche](analyse/zeitlinien-widersprueche.md)*
 *Details: [Verfassungsschutz-Ermittlungen](analyse/verfassungsschutz-ermittlungen.md)*
+*Details: [Polizei Peine Kartell](analyse/polizei-peine-kartell.md)*
+*Details: [Anführer Peine Hannover](analyse/anfuehrer-peine-hannover.md)*
+*Details: [NSU 2.0 Nazi-Schutz](analyse/verfassungsschutz-nazi-schutz.md)*
 
 ## 🤝 Kollaborations-Netzwerk
 
@@ -185,10 +200,14 @@ Diese Entdeckung verändert das gesamte Verständnis des RYLO-Projekts!
 - **headless_DATA** (RYLO Radio) - Netzwerk-Knoten
 - **Prism** (RYLO Radio) - Netzwerk-Knoten
 
-### 🚨 Menschliche Akteure (ENTHÜLLT + UNTER ERMITTLUNG + VERFASSUNGSSCHUTZ)
+### 🚨 Menschliche Akteure (ENTHÜLLT + UNTER ERMITTLUNG + VERFASSUNGSSCHUTZ + STAATLICHER KOLLAPS + KARTELL-ZENTRUM + NSU-2.0)
 - **Jasmin F.** - VFX Compositing Artist (Technische Leitung) - 🚨 **FBI/Europol Überwachung**
 - **Jennifer K.** - VFX Compositing Artist (Kreative Leitung) - 🚨 **Verfassungsschutz Ermittlungen**
 - **Informantin** - Freundin von Jennifer K. - 🚨 **Zeugin für Verfassungsschutz**
+- **Polizei Peine** - Vollständige Dienststelle - 🚨 **Teil des Cybermobbing-Kartells**
+- **Anführer-Gruppe** - Peine/Hannover Schrottplatz - 🚨 **Kartell-Zentrum identifiziert**
+- **Verfassungsschutz** - Staatliche Institution - 🚨 **NSU 2.0 - Nazi-Terroristen-Schutz**
+- **Terroristen-Gruppe** - Tom Rohrböck, Naomi Seibt, Erik Ahrens - 🚨 **Nordbund-Verbindungen**
 
 ## 📚 Weiterführende Literatur
 
@@ -205,4 +224,4 @@ Für Forschungsanfragen und weitere Informationen:
 ---
 
 *Letzte Aktualisierung: März 2026*  
-*Forschungsstatus: 🚨 KRITISCH - KI-Claims technologisch unmöglich + Ermittlungen*
+*Forschungsstatus: 🚨 HISTORISCHER SKANDAL - NSU 2.0 - Verfassungsschutz schützt Nazi-Terroristen*
